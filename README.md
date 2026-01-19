@@ -5,9 +5,11 @@ This repository contains a curated collection of prompt engineering resources an
 ## Repository Structure
 
 - **CareerArchitect.md**: Prompts and strategies for career planning, job search, and professional development.
+- **CompensationAnalyst.md**: Prompts for compensation analysis, salary benchmarking, and pay equity insights.
 - **DocuMorph.md**: Prompts for document transformation, summarization, and content adaptation.
-- **Lyra.md**: Prompts for creating and refining user prompts for large language models (LLMs).
+- **LyraAiPrompter.md**: Prompts for creating and refining user prompts for large language models (LLMs).
 - **OrganizationalAnalyst.md**: Prompts for organizational analysis, business strategy, and process improvement.
+- **ThePresenter.md**: Prompts for presentation creation, storytelling, and effective communication.
 
 ## Usage
 
