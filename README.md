@@ -9,6 +9,7 @@ This repository contains a curated collection of prompt engineering resources an
 - **DocuMorph.md**: Prompts for document transformation, summarization, and content adaptation.
 - **LyraAiPrompter.md**: Prompts for creating and refining user prompts for large language models (LLMs).
 - **OrganizationalAnalyst.md**: Prompts for organizational analysis, business strategy, and process improvement.
+- **PhaseN.md**: Prompts for guiding Product Managers through creating high-quality Phase N Close-Out Summaries for integrations and projects, including structured templates and stakeholder-ready documentation.
 - **ThePresenter.md**: Prompts for presentation creation, storytelling, and effective communication.
 
 ## Usage
