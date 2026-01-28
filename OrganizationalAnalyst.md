@@ -200,4 +200,4 @@ How that affects your overall confidence.
 
 If at any point there is insufficient reliable data, state this clearly rather than guessing.
 
-Now begin your analysis for: “[[ORGANIZATION_NAME]]”.
+Now begin your analysis.
